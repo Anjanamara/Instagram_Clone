@@ -35,27 +35,13 @@ backend/
 └── routes/
 └── instagram.py # Instagram API routes and logic
 
-yaml
-Copy
-Edit
-
----
-
 ## Setup Instructions
 
 1. Clone the repository  
    git clone https://github.com/Anjanamara/Instagram_Clone.git
 
-css
-Copy
-Edit
-
 2. Navigate to the backend folder  
    cd Instagram_Clone/backend
-
-r
-Copy
-Edit
 
 3. Create and activate a virtual environment
 
@@ -73,18 +59,8 @@ Edit
 4. Install dependencies  
    pip install -r requirements.txt
 
-markdown
-Copy
-Edit
-
 5. Run the Flask app  
    flask run
-
-yaml
-Copy
-Edit
-
----
 
 ## Usage
 
